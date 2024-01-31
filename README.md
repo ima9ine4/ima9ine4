@@ -1,6 +1,11 @@
 # ima9ine4
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=imagine's&nbsp;github&fontSize=90&fontColor=00000" />
+<hr/>
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=imagine's%20Github.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+<hr/>
 
 
 </div>
+
